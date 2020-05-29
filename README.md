@@ -152,8 +152,10 @@ client
 
 Change the image to your own repository.
 
-- Notebook 1: Official Example
-- Notebook 2: Personal example
+- Notebook [machine-learning_cluster.ipynb](https://github.com/thomaspernet/Dask_cluster_aws_Docker/blob/master/notebooks_example/machine-learning_cluster.ipynb): Official Example
+- Notebook [Dask_scikit_XGBoost](https://github.com/thomaspernet/Dask_cluster_aws_Docker/blob/master/notebooks_example/Dask_scikit_XGBoost.ipynb): Personal example
+
+![](https://github.com/thomaspernet/Dask_cluster_aws_Docker/blob/master/notebooks_example/images/XGboost.gif?raw=true)
 
 ## Documentation
 
