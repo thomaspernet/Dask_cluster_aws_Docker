@@ -1,0 +1,24 @@
+name: daskenv
+dependencies:
+  - python=3.8.3
+  - numpy=1.18.1
+  - pandas=1.0.3 
+  - blosc=1.9.1
+  - lz4=3.0.2
+  - matplotlib
+  - seaborn
+  - dask-ml
+  - jupyter
+  - jupyterlab 
+  - jupytext
+  - s3fs
+  - git
+  - black
+  - jupyterlab_code_formatter
+  - conda-forge::scikit-learn=0.23.1
+  - jupyterlab-git
+  - pip:
+    - dask-cloudprovider
+    - git+git://github.com/thomaspernet/aws-python
+    - awscli
+    - nodejs
