@@ -150,6 +150,12 @@ client = Client(cluster)
 client
 ```
 
+
+
+It will provide a URL to follow the distributed computations on the cluster.
+
+![](https://github.com/thomaspernet/Dask_cluster_aws_Docker/blob/master/notebooks_example/images/cluster.png?raw=true)
+
 Change the image to your own repository.
 
 - Notebook [machine-learning_cluster.ipynb](https://github.com/thomaspernet/Dask_cluster_aws_Docker/blob/master/notebooks_example/machine-learning_cluster.ipynb): Official Example
